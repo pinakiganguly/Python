@@ -1,2 +1,2 @@
-# Pyhton
+# Python
 My Python codes
